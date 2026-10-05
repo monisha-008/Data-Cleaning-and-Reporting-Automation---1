@@ -1,0 +1,66 @@
+{
+  "dataset": "sample-data.csv",
+  "rowCount": 500,
+  "columnCount": 11,
+  "columns": [
+    "Customer_ID",
+    "Customer_Name",
+    "Age",
+    "Gender",
+    "City",
+    "Product",
+    "Quantity",
+    "Price",
+    "Revenue",
+    "Purchase_Date",
+    "Payment_Method"
+  ],
+  "duplicateRowCount": 25,
+  "missingCounts": {
+    "Age": 40,
+    "City": 15,
+    "Payment_Method": 20,
+    "Customer_ID": 0,
+    "Customer_Name": 0,
+    "Gender": 0,
+    "Product": 0,
+    "Quantity": 0,
+    "Price": 0,
+    "Revenue": 0,
+    "Purchase_Date": 0,
+    "totalMissingCells": 75
+  },
+  "invalidCounts": {
+    "Age": 10,
+    "Purchase_Date": 8,
+    "totalInvalidValues": 18
+  },
+  "outlierCounts": {
+    "Quantity": 2,
+    "Price": 2,
+    "Revenue": 2,
+    "totalKnownOutliers": 6
+  },
+  "spellingVariationsCount": 12,
+  "formattedNumericStringsCount": 30,
+  "severity": {
+    "overall": "Medium",
+    "missingSeverity": "Medium",
+    "duplicateSeverity": "Medium",
+    "invalidSeverity": "Low"
+  },
+  "qualityScore": {
+    "expectedInitialRange": [
+      65,
+      80
+    ],
+    "expectedCleanedRange": [
+      92,
+      100
+    ]
+  },
+  "kpis": {
+    "totalRevenueApprox": 1800000,
+    "totalOrders": 500
+  }
+}

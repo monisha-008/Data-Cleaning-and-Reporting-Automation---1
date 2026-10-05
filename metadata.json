@@ -1,0 +1,6 @@
+{
+  "name": "Data Cleaning & Reporting Automation",
+  "description": "Clean Data. Discover Insights. Automate Reports. Browser-based data cleaning, data-quality analysis, and automated reporting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

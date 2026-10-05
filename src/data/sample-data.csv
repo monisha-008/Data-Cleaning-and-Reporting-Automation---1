@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product,Quantity,Price,Revenue,Purchase_Date,Payment_Method
+CUST-1001,Aarav Gupta,28,Other,Bangalore,Headphones,5,750,3750,2025-07-08,Credit Card
+CUST-1002,Myra Sen,28,Female,Delhi,Smartphone,2,350,700,2025-10-15,Cash on Delivery
+CUST-1003,Pari Verma,40,Female,Delhi,Keyboard,3,700,2100,2025-03-01,Credit Card
+CUST-1004,Sneha Sen,48,Other,Chennai,Keyboard,2,$600,1200,2025-04-10,Net Banking
+CUST-1005,Ayaan Verma,34,Female,Delhi,Headphones,1,300,300,2025-12-16,Credit Card
+CUST-1006,Sneha Kumar,,Other,Delhi,Smartwatch,1,900,900,2025-05-13,Net Banking
+CUST-1007,Vihaan Kapoor,26,Other,Chenai,Laptop,4,600,2400,2025-03-15,UPI
+CUST-1008,Aditya Bose,49,Female,Pune,Tablet,5,700,3500,2025-06-26,UPI
+CUST-1009,Sneha Iyer,45,Other,,Monitor,5,750,3750,2025-04-10,Debit Card
+CUST-1010,Krishna Das,40,Female,Mumbai,Headphones,1,950,950,2025-05-13,Cash on Delivery
+CUST-1011,Aditya Kumar,36,Male,Hyderabad,Smartphone,4,1150,4600,2025-01-14,Cash on Delivery
+CUST-1012,Diya Patel,37,Female,Delhi,Keyboard,1,800,800,2025-05-08,Debit Card
+CUST-1013,Reyansh Joshi,28,Male,Bangalore,Mouse,4,750,3000,2025-10-04,
+CUST-1014,Arjun Nair,46,Male,Ahmedabad,Monitor,3,700,2100,2025-05-09,Debit Card
+CUST-1015,Krishna Kumar,52,Male,Bangalore,Laptop,3,250,750,2025-05-16,Credit Card
+CUST-1016,Riya Sen,NA,Other,Pune,Smartphone,1,1100,1100,2025-10-28,Debit Card
+CUST-1017,Ananya Bhat,64,Other,Mumbai,Monitor,5,350,1750,2025-05-02,UPI
+CUST-1018,Vihaan Gupta,29,Male,Pune,Tablet,2,₹950,1900,2025-05-27,UPI
+CUST-1019,Ishaan Joshi,23,Other,Hyderabad,Headphones,4,400,1600,2025-07-17,Debit Card
+CUST-1020,Ayaan Reddy,42,Other,Hyderabad,Monitor,1,850,850,2025-09-05,Cash on Delivery
+CUST-1021,Arjun Sharma,44,Female,Kolkata,Mouse,1,850,850,2025-05-14,Debit Card
+CUST-1022,Ayaan Kapoor,22,Other,Ahmedabad,Smartwatch,4,500,2000,2025-08-01,UPI
+CUST-1023,Ananya Saxena,40,Female,Ahmedabad,Mouse,3,1100,3300,2025-01-02,UPI
+CUST-1024,Diya Kumar,47,Female,Kolkata,Smartwatch,1,1000,1000,2025-10-28,UPI
+CUST-1025,Vivaan Kumar,34,Other,Ahmedabad,Headphones,5,1000,5000,2025-05-09,Credit Card
+CUST-1026,Anvi Joshi,N/A,Other,Kolkata,Keyboard,3,300,900,2025-04-08,UPI
+CUST-1027,Pari Chopra,48,Male,Mumbay,Keyboard,3,1050,3150,2025-10-08,Debit Card
+CUST-1028,Aadhya Reddy,25,Female,Delhi,Smartwatch,4,600,2400,2025-02-15,Debit Card
+CUST-1029,Ayaan Sen,51,Male,Mumbai,Tablet,5,750,3750,2025-01-23,Debit Card
+CUST-1030,Aditya Mehta,50,Female,Mumbai,Tablet,1,300,300,2025-09-22,Credit Card
+CUST-1031,Riya Gupta,33,Female,Pune,Mouse,4,500,2000,2025-07-19,Debit Card
+CUST-1032,Krishna Das,35,Female,Bangalore,Monitor,3,750,"2,250.00",2025-05-21,Net Banking
+CUST-1033,Riya Kumar,39,Female,Bangalore,Smartphone,4,1200,4800,2025-10-18,-
+CUST-1034,Aarav Sen,36,Female,Delhi,Monitor,3,350,1050,2025-02-09,Cash on Delivery
+CUST-1035,Chiara Bhat,45,Other,Bangalore,Headphones,4,450,1800,2025-09-19,Credit Card
+CUST-1036,Vihaan Kapoor,null,Female,Pune,Mouse,2,550,1100,2025-04-16,Net Banking
+CUST-1037,Myra Kapoor,34,Female,Mumbai,Smartphone,4,1000,4000,2025-08-22,Debit Card
+CUST-1038,Ananya Kapoor,59,Male,Hyderabad,Tablet,3,500,1500,2025-04-28,Net Banking
+CUST-1039,Ayaan Singh,57,Male,N/A,Smartphone,4,550,2200,2025-01-01,Debit Card
+CUST-1040,Sai Joshi,55,Other,Hyderabad,Headphones,1,1200,1200,2025-03-24,UPI
+CUST-1041,Vihaan Sharma,26,Female,Chennai,Headphones,5,1150,5750,2025-10-23,UPI
+CUST-1042,Sai Reddy,61,Male,Ahmedabad,Smartphone,5,800,4000,2025-10-05,Net Banking
+CUST-1043,Sai Sen,62,Male,Ahmedabad,Laptop,5,1050,5250,2025-10-28,Debit Card
+CUST-1044,Ayaan Mehta,54,Male,Hyderabad,Keyboard,1,400,400,2025-11-07,Debit Card
+CUST-1045,Chiara Iyer,33,Male,Chennai,Laptop,5,700,3500,invalid_date,Net Banking
+CUST-1046,Diya Bhat,,Male,Kolkata,Headphones,4,$650,2600,2025-10-12,Cash on Delivery
+CUST-1047,Sai Chopra,58,Male,Bangelore,Smartphone,2,300,600,2025-05-22,Cash on Delivery
+CUST-1048,Reyansh Saxena,38,Male,Chennai,Keyboard,4,800,3200,2025-01-19,Cash on Delivery
+CUST-1049,Pari Reddy,41,Female,Delhi,Monitor,3,950,2850,2025-12-06,Credit Card
+CUST-1050,Pari Chopra,56,Female,Bangalore,Headphones,4,1200,4800,2025-03-18,Cash on Delivery
+CUST-1051,Aditya Rao,29,Female,Bangalore,Headphones,250,350,1400,2025-11-03,UPI
+CUST-1052,Pari Kapoor,50,Male,Hyderabad,Laptop,1,300,300,2025-04-07,Cash on Delivery
+CUST-1053,Vivaan Verma,38,Female,Bangalore,Keyboard,4,350,1400,2025-03-26,
+CUST-1054,Myra Singh,28,Female,Hyderabad,Monitor,3,900,2700,2025-08-08,UPI
+CUST-1055,Aadhya Sharma,44,Female,Pune,Monitor,5,950,4750,2025-06-07,UPI
+CUST-1056,Myra Sharma,NA,Male,Chennai,Monitor,4,1000,4000,2025-12-25,Cash on Delivery
+CUST-1057,Krishna Malhotra,21,Male,Kolkata,Smartphone,4,650,2600,2025-12-10,Net Banking
+CUST-1058,Myra Das,23,Other,Kolkata,Smartwatch,5,700,3500,2025-08-21,UPI
+CUST-1059,Vivaan Reddy,26,Other,Pune,Monitor,1,450,450,2025-09-02,Net Banking
+CUST-1060,Pari Singh,47,Female,Kolkata,Headphones,1,"₹1,000",1000,2025-12-17,Cash on Delivery
+CUST-1061,Pari Iyer,22,Other,Bangalore,Mouse,1,750,750,2025-10-26,Net Banking
+CUST-1062,Reyansh Bose,21,Female,Mumbai,Laptop,1,1200,1200,2025-03-22,Cash on Delivery
+CUST-1063,Aarav Verma,32,Male,Ahmedabad,Smartwatch,3,1050,3150,2025-08-22,Cash on Delivery
+CUST-1064,Aditya Singh,24,Male,Bangalore,Laptop,1,900,900,2025-01-23,Credit Card
+CUST-1065,Pari Gupta,34,Female,Mumbai,Monitor,1,1150,1150,2025-06-14,Debit Card
+CUST-1066,Diya Verma,N/A,Male,Mumbai,Monitor,3,800,2400,2025-06-09,Debit Card
+CUST-1067,Aditya Kumar,47,Male,Calcutta,Headphones,3,1000,3000,2025-07-08,UPI
+CUST-1068,Riya Rao,48,Male,Ahmedabad,Monitor,3,400,1200,2025-09-01,Net Banking
+CUST-1069,Saanvi Rao,23,Male,,Smartwatch,4,250,1000,2025-04-05,UPI
+CUST-1070,Diya Iyer,43,Female,Delhi,Smartphone,3,700,2100,2025-10-07,Cash on Delivery
+CUST-1071,Reyansh Verma,61,Female,Chennai,Keyboard,2,900,1800,2025-06-23,Cash on Delivery
+CUST-1072,Pari Kumar,25,Male,Kolkata,Mouse,5,550,2750,2025-05-27,UPI
+CUST-1073,Arjun Chopra,27,Female,Pune,Tablet,1,550,550,2025-09-27,-
+CUST-1074,Ananya Gupta,23,Female,Bangalore,Laptop,3,850,"2,550.00",2025-05-13,Cash on Delivery
+CUST-1075,Vihaan Bose,22,Male,Delhi,Mouse,5,1150,5750,2025-02-22,Net Banking
+CUST-1076,Diya Sharma,null,Female,Kolkata,Smartphone,2,900,1800,2025-08-26,UPI
+CUST-1077,Pari Saxena,30,Male,Ahmedabad,Laptop,1,300,300,2025-10-28,UPI
+CUST-1078,Sneha Kumar,23,Female,Delhi,Smartphone,2,250,500,2025-02-27,Debit Card
+CUST-1079,Anvi Bose,26,Male,Delhi,Smartwatch,4,600,2400,2025-11-05,Credit Card
+CUST-1080,Ishaan Sharma,30,Male,Hyderabad,Smartphone,1,700,700,2025-08-06,UPI
+CUST-1081,Vivaan Reddy,56,Male,Delhi,Smartphone,2,1150,2300,2025-09-12,Debit Card
+CUST-1082,Pari Kumar,23,Male,Pune,Smartphone,3,1050,3150,2025-01-11,Credit Card
+CUST-1083,Aditya Verma,29,Male,Mumbai,Mouse,1,500,500,2025-03-19,Credit Card
+CUST-1084,Aadhya Singh,30,Male,Delhi,Laptop,4,250,1000,2025-03-24,UPI
+CUST-1085,Pari Bose,25,Female,Hyderabad,Smartwatch,3,700,2100,2025-08-06,Debit Card
+CUST-1086,Pari Gupta,,Other,Mumbai,Laptop,4,1150,4600,2025-09-08,Debit Card
+CUST-1087,Ananya Sharma,40,Male,Hydrabad,Headphones,2,900,1800,2025-01-04,Net Banking
+CUST-1088,Aarav Kumar,62,Male,Chennai,Headphones,1,$650,650,2025-08-07,Net Banking
+CUST-1089,Pari Mehta,30,Female,Ahmedabad,Monitor,4,400,1600,2025-01-21,Net Banking
+CUST-1090,Aarav Bhat,42,Female,Ahmedabad,Smartwatch,3,800,2400,2025-08-28,Cash on Delivery
+CUST-1091,Ishaan Patel,42,Female,Ahmedabad,Laptop,2,300,600,2025-11-07,UPI
+CUST-1092,Vivaan Nair,57,Female,Delhi,Smartphone,1,550,550,2025-03-07,Debit Card
+CUST-1093,Krishna Das,37,Male,Pune,Laptop,3,300,900,2025-02-10,
+CUST-1094,Anvi Das,32,Other,Delhi,Smartwatch,4,800,3200,2025-05-24,Net Banking
+CUST-1095,Aadhya Bose,61,Female,Mumbai,Headphones,4,450,1800,99/99/9999,Debit Card
+CUST-1096,Krishna Malhotra,NA,Male,Mumbai,Laptop,2,250,500,2025-02-09,Cash on Delivery
+CUST-1097,Aditya Iyer,38,Other,Mumbai,Keyboard,4,300,1200,2025-07-06,Credit Card
+CUST-1098,Sneha Sen,39,Male,Kolkata,Smartphone,5,450,2250,2025-03-17,Debit Card
+CUST-1099,Ishaan Joshi,27,Other,N/A,Mouse,4,450,1800,2025-12-12,Net Banking
+CUST-1100,Ananya Nair,20,Male,Hyderabad,Smartphone,2,550,1100,2025-05-11,Debit Card
+CUST-1101,Aarav Nair,26,Female,Pune,Laptop,400,300,900,2025-12-15,Credit Card
+CUST-1102,Anvi Saxena,37,Female,Ahmedabad,Smartphone,1,₹700,700,2025-03-07,Debit Card
+CUST-1103,Myra Bose,abc,Other,Ahmedabad,Monitor,1,1100,1100,2025-03-28,Credit Card
+CUST-1104,Reyansh Malhotra,38,Male,Bangalore,Keyboard,5,800,4000,2025-06-15,Credit Card
+CUST-1105,Aarav Sen,43,Other,Hyderabad,Mouse,4,1150,4600,2025-11-13,UPI
+CUST-1106,Saanvi Reddy,N/A,Other,Hyderabad,Laptop,3,950,2850,2025-04-28,Debit Card
+CUST-1107,Chiara Bhat,32,Other,Poona,Tablet,4,850,3400,2025-07-20,Cash on Delivery
+CUST-1108,Arjun Das,64,Male,Kolkata,Smartwatch,2,750,1500,2025-07-28,Debit Card
+CUST-1109,Ishaan Saxena,59,Male,Kolkata,Headphones,3,250,750,2025-12-19,Cash on Delivery
+CUST-1110,Diya Kapoor,54,Other,Kolkata,Smartwatch,1,750,750,2025-04-12,Credit Card
+CUST-1111,Ayaan Iyer,28,Female,Ahmedabad,Headphones,1,250,250,2025-02-22,Debit Card
+CUST-1112,Saanvi Verma,62,Other,Delhi,Smartphone,3,1050,3150,2025-02-10,UPI
+CUST-1113,Anvi Reddy,24,Female,Mumbai,Mouse,3,950,2850,2025-12-15,-
+CUST-1114,Vivaan Saxena,34,Other,Chennai,Keyboard,2,650,1300,2025-03-07,UPI
+CUST-1115,Ayaan Iyer,42,Other,Pune,Smartphone,2,1050,2100,2025-12-05,Debit Card
+CUST-1116,Aadhya Patel,null,Other,Mumbai,Smartwatch,4,800,"3,200.00",2025-10-12,Net Banking
+CUST-1117,Sai Sen,34,Other,Delhi,Laptop,4,300,1200,2025-02-16,Credit Card
+CUST-1118,Vihaan Bose,44,Female,Delhi,Smartwatch,1,600,600,2025-07-23,Net Banking
+CUST-1119,Arjun Rao,31,Male,Pune,Keyboard,3,600,1800,2025-03-05,Debit Card
+CUST-1120,Krishna Bose,40,Other,Delhi,Monitor,2,450,900,2025-10-16,UPI
+CUST-1121,Vihaan Das,44,Female,Chennai,Smartwatch,2,400,800,2025-06-28,Debit Card
+CUST-1122,Aarav Sharma,56,Female,Ahmedabad,Headphones,5,350,1750,2025-04-23,Cash on Delivery
+CUST-1123,Saanvi Iyer,55,Other,Pune,Keyboard,4,900,3600,2025-01-12,Credit Card
+CUST-1124,Vihaan Bhat,51,Other,Pune,Monitor,2,1050,2100,2025-08-14,UPI
+CUST-1125,Aadhya Bhat,35,Other,Kolkata,Smartwatch,5,750,3750,2025-12-18,Net Banking
+CUST-1126,Vivaan Iyer,,Female,Ahmedabad,Headphones,3,700,2100,2025-01-25,Credit Card
+CUST-1127,Arjun Gupta,59,male,Ahmedabad,Smartwatch,2,900,1800,2025-11-26,Cash on Delivery
+CUST-1128,Aditya Malhotra,47,Female,Ahmedabad,Keyboard,5,550,2750,2025-02-11,Debit Card
+CUST-1129,Vihaan Saxena,51,Male,,Tablet,1,300,300,2025-11-20,Cash on Delivery
+CUST-1130,Vihaan Kumar,34,Female,Bangalore,Laptop,4,$800,3200,2025-08-14,Cash on Delivery
+CUST-1131,Saanvi Bhat,22,Male,Hyderabad,Smartwatch,4,800,3200,2025-02-19,Cash on Delivery
+CUST-1132,Saanvi Mehta,20,Female,Hyderabad,Tablet,2,450,900,2025-03-10,Cash on Delivery
+CUST-1133,Arjun Singh,twenty,Male,Bangalore,Headphones,5,850,4250,2025-12-07,
+CUST-1134,Sneha Malhotra,24,Female,Delhi,Monitor,2,650,1300,2025-07-24,Debit Card
+CUST-1135,Chiara Malhotra,57,Male,Mumbai,Laptop,5,1050,5250,2025-02-27,Net Banking
+CUST-1136,Chiara Verma,NA,Male,Kolkata,Headphones,1,600,600,2025-10-25,Credit Card
+CUST-1137,Reyansh Sharma,20,Other,Hyderabad,Mouse,5,1100,5500,2025-11-15,Cash on Delivery
+CUST-1138,Anvi Nair,58,Female,Mumbai,Tablet,4,300,1200,2025-08-13,Net Banking
+CUST-1139,Aadhya Verma,25,Other,Delhi,Tablet,4,1150,4600,2025-05-25,Net Banking
+CUST-1140,Ayaan Bose,36,Male,Bangalore,Monitor,2,1100,2200,2025-01-02,Net Banking
+CUST-1141,Vihaan Kumar,60,Other,Ahmedabad,Keyboard,5,1150,5750,2025-12-22,UPI
+CUST-1142,Reyansh Bhat,41,Male,Mumbai,Mouse,2,850,1700,2025-04-04,Credit Card
+CUST-1143,Pari Reddy,59,Female,Ahmedabad,Keyboard,2,1200,2400,2025-12-04,UPI
+CUST-1144,Ayaan Malhotra,46,Other,Kolkata,Laptop,1,₹900,900,2025-01-16,Net Banking
+CUST-1145,Ayaan Malhotra,54,Male,Mumbai,Laptop,2,1200,2400,2025-02-31,Net Banking
+CUST-1146,Sneha Nair,N/A,Male,Delhi,Mouse,2,750,1500,2025-10-03,Cash on Delivery
+CUST-1147,Myra Sharma,60,MALE,Mumbai,Mouse,4,300,1200,2025-12-01,UPI
+CUST-1148,Aarav Sen,52,Female,Pune,Keyboard,2,550,1100,2025-11-01,Credit Card
+CUST-1149,Sai Singh,47,Other,Pune,Laptop,3,900,2700,2025-11-03,Net Banking
+CUST-1150,Riya Sen,59,Other,Bangalore,Smartphone,3,700,2100,2025-04-20,Net Banking
+CUST-1151,Riya Verma,38,Female,Mumbai,Smartphone,1,45000,700,2025-07-11,Net Banking
+CUST-1152,Ishaan Saxena,32,Male,Bangalore,Keyboard,2,1150,2300,2025-10-25,Cash on Delivery
+CUST-1153,Vihaan Verma,22,Female,Delhi,Smartphone,4,1150,4600,2025-02-21,-
+CUST-1154,Vivaan Kumar,51,Other,Kolkata,Headphones,3,900,2700,2025-04-19,Debit Card
+CUST-1155,Vihaan Sharma,41,Male,Ahmedabad,Monitor,1,500,500,2025-03-21,Credit Card
+CUST-1156,Anvi Bose,null,Male,Chennai,Smartphone,3,1150,3450,2025-02-06,Net Banking
+CUST-1157,Krishna Malhotra,40,Male,Bangalore,Keyboard,2,1100,2200,2025-11-24,Net Banking
+CUST-1158,Riya Patel,26,Other,Ahmedabad,Headphones,4,850,"3,400.00",2025-09-20,Cash on Delivery
+CUST-1159,Reyansh Saxena,64,Male,N/A,Smartwatch,5,700,3500,2025-12-18,Cash on Delivery
+CUST-1160,Saanvi Kumar,33,Other,Pune,Tablet,4,350,1400,2025-10-21,Debit Card
+CUST-1161,Sneha Chopra,22,Female,Hyderabad,Mouse,4,650,2600,2025-01-16,Net Banking
+CUST-1162,Myra Rao,46,Female,Bangalore,Monitor,4,900,3600,2025-01-01,Credit Card
+CUST-1163,Aditya Rao,-5,Female,Ahmedabad,Monitor,5,700,3500,2025-01-18,Cash on Delivery
+CUST-1164,Ananya Gupta,30,Male,Bangalore,Headphones,4,1100,4400,2025-03-19,UPI
+CUST-1165,Anvi Sharma,20,Other,Kolkata,Laptop,3,1100,3300,2025-03-22,UPI
+CUST-1166,Diya Joshi,,Other,Kolkata,Mouse,2,950,1900,2025-01-08,Cash on Delivery
+CUST-1167,Saanvi Reddy,36, female,Kolkata,Headphones,3,300,900,2025-08-21,Credit Card
+CUST-1168,Vihaan Kapoor,21,Female,Pune,Smartwatch,1,900,900,2025-03-24,Debit Card
+CUST-1169,Ananya Bhat,57,Male,Kolkata,Smartwatch,2,1050,2100,2025-09-17,Cash on Delivery
+CUST-1170,Vihaan Kapoor,42,Male,Chennai,Headphones,3,1150,3450,2025-07-25,Cash on Delivery
+CUST-1171,Saanvi Reddy,46,Male,Chennai,Tablet,4,800,3200,2025-04-15,Debit Card
+CUST-1172,Krishna Nair,21,Female,Ahmedabad,Tablet,3,$250,750,2025-03-08,UPI
+CUST-1173,Ananya Singh,46,Other,Ahmedabad,Mouse,5,350,1750,2025-07-05,
+CUST-1174,Vivaan Sen,64,Female,Mumbai,Keyboard,2,250,500,2025-02-06,Credit Card
+CUST-1175,Riya Reddy,36,Other,Delhi,Monitor,3,350,1050,2025-02-05,Net Banking
+CUST-1176,Arjun Das,NA,Female,Kolkata,Tablet,2,1100,2200,2025-04-05,Credit Card
+CUST-1177,Riya Gupta,34,Other,Pune,Tablet,1,250,250,2025-10-22,Debit Card
+CUST-1178,Arjun Singh,30,Other,Mumbai,Monitor,3,950,2850,2025-07-10,Net Banking
+CUST-1179,Sai Nair,59,Other,Hyderabad,Keyboard,5,1200,6000,2025-08-16,Cash on Delivery
+CUST-1180,Ishaan Nair,24,Female,Kolkata,Headphones,5,900,4500,2025-12-26,Credit Card
+CUST-1181,Ishaan Iyer,58,Male,Mumbai,Mouse,4,1050,4200,2025-11-25,Debit Card
+CUST-1182,Krishna Sen,25,Female,Pune,Mouse,3,1050,3150,2025-06-23,Net Banking
+CUST-1183,Saanvi Rao,48,Other,Kolkata,Mouse,1,550,550,2025-07-14,Net Banking
+CUST-1184,Pari Reddy,61,Other,Ahmedabad,Tablet,4,1000,4000,2025-07-15,Cash on Delivery
+CUST-1185,Vihaan Bhat,46,Other,Delhi,Headphones,4,700,2800,2025-09-27,Cash on Delivery
+CUST-1186,Saanvi Reddy,N/A,Female,Mumbai,Headphones,2,₹400,800,2025-10-10,Credit Card
+CUST-1187,Ishaan Kapoor,29,FEMALE,Hyderabad,Laptop,3,1000,3000,2025-03-13,Credit Card
+CUST-1188,Sneha Gupta,25,Male,Pune,Smartwatch,3,300,900,2025-01-22,Net Banking
+CUST-1189,Sneha Sen,28,Female,,Laptop,3,400,1200,2025-03-20,Cash on Delivery
+CUST-1190,Chiara Gupta,42,Male,Hyderabad,Monitor,2,1200,2400,2025-08-22,Credit Card
+CUST-1191,Ishaan Chopra,38,Female,Pune,Keyboard,4,800,3200,2025-08-15,Cash on Delivery
+CUST-1192,Myra Bose,31,Male,Chennai,Smartphone,2,1100,2200,2025-01-01,UPI
+CUST-1193,Chiara Mehta,NaN,Female,Pune,Keyboard,3,1150,3450,2025-12-17,-
+CUST-1194,Vihaan Kapoor,39,Other,Chennai,Headphones,4,1200,4800,2025-04-07,Credit Card
+CUST-1195,Arjun Singh,63,Female,Delhi,Mouse,5,650,3250,not-a-date,Credit Card
+CUST-1196,Ayaan Sen,null,Male,Ahmedabad,Mouse,5,950,4750,2025-10-27,Net Banking
+CUST-1197,Ayaan Reddy,58,Female,Kolkata,Smartphone,2,1150,2300,2025-04-15,Cash on Delivery
+CUST-1198,Aadhya Das,28,Male,Kolkata,Laptop,5,950,4750,2025-12-19,Credit Card
+CUST-1199,Ayaan Singh,27,Female,Bangalore,Mouse,3,1050,3150,2025-04-01,UPI
+CUST-1200,Aarav Patel,24,Female,Delhi,Smartwatch,5,650,"3,250.00",2025-01-24,Debit Card
+CUST-1201,Sai Joshi,42,Female,Delhi,Smartwatch,2,60000,600,2025-02-14,UPI
+CUST-1202,Ayaan Nair,23,Other,Mumbai,Monitor,3,1000,3000,2025-09-24,Net Banking
+CUST-1203,Pari Patel,31,Female,Pune,Smartphone,3,1200,3600,2025-02-21,UPI
+CUST-1204,Aditya Das,35,Female,Hyderabad,Keyboard,2,900,1800,2025-05-28,Cash on Delivery
+CUST-1205,Sai Das,28,Male,Hyderabad,Mouse,2,900,1800,2025-07-23,Debit Card
+CUST-1206,Pari Nair,,Male,Delhi,Laptop,1,1200,1200,2025-03-18,Credit Card
+CUST-1207,Vivaan Bhat,49,Female, Mumbai ,Keyboard,3,850,2550,2025-10-28,Debit Card
+CUST-1208,Diya Kapoor,46,Female,Chennai,Tablet,4,400,1600,2025-04-21,Debit Card
+CUST-1209,Aarav Nair,32,Male,Mumbai,Laptop,2,550,1100,2025-10-19,Credit Card
+CUST-1210,Vivaan Kapoor,63,Male,Delhi,Smartwatch,3,1050,3150,2025-03-17,Debit Card
+CUST-1211,Sneha Rao,59,Other,Ahmedabad,Monitor,2,300,600,2025-01-03,UPI
+CUST-1212,Sneha Chopra,54,Female,Mumbai,Monitor,5,450,2250,2025-09-13,Net Banking
+CUST-1213,Chiara Sharma,48,Male,Bangalore,Smartwatch,5,1200,6000,2025-04-16,
+CUST-1214,Pari Joshi,55,Other,Bangalore,Smartphone,2,$400,800,2025-01-03,Credit Card
+CUST-1215,Arjun Verma,51,Female,Kolkata,Keyboard,2,1050,2100,2025-11-27,Net Banking
+CUST-1216,Riya Malhotra,NA,Female,Chennai,Smartphone,1,550,550,2025-06-28,UPI
+CUST-1217,Ayaan Patel,47,Male,Bangalore,Laptop,5,850,4250,2025-11-03,UPI
+CUST-1218,Aadhya Das,51,Other,Delhi,Laptop,1,600,600,2025-07-02,UPI
+CUST-1219,Diya Verma,26,Female,N/A,Laptop,1,1200,1200,2025-12-10,UPI
+CUST-1220,Chiara Rao,21,Female,Hyderabad,Tablet,3,1200,3600,2025-08-13,Credit Card
+CUST-1221,Vihaan Gupta,42,Male,Ahmedabad,Mouse,5,1050,5250,2025-05-11,Net Banking
+CUST-1222,Ishaan Das,46,Female,Pune,Keyboard,1,450,450,2025-06-03,UPI
+CUST-1223,Anvi Bose,invalid,Other,Mumbai,Smartwatch,1,1100,1100,2025-01-21,Net Banking
+CUST-1224,Myra Saxena,28,Male,Ahmedabad,Tablet,1,350,350,2025-07-20,Debit Card
+CUST-1225,Diya Kapoor,22,Male,Hyderabad,Keyboard,4,650,2600,2025-01-19,Credit Card
+CUST-1226,Saanvi Saxena,N/A,Female,Ahmedabad,Tablet,2,650,1300,2025-06-09,UPI
+CUST-1227,Vivaan Rao,43,Male,Delhi ,Smartwatch,3,450,1350,2025-12-25,UPI
+CUST-1228,Reyansh Mehta,56,Male,Kolkata,Monitor,4,₹400,1600,2025-09-14,Cash on Delivery
+CUST-1229,Riya Reddy,51,Female,Chennai,Smartphone,4,250,1000,2025-09-24,Debit Card
+CUST-1230,Krishna Kumar,37,Male,Ahmedabad,Smartwatch,2,750,1500,2025-12-12,Credit Card
+CUST-1231,Anvi Malhotra,47,Female,Bangalore,Tablet,2,800,1600,2025-03-20,UPI
+CUST-1232,Sai Bhat,43,Female,Pune,Tablet,3,550,1650,2025-02-24,UPI
+CUST-1233,Vivaan Das,64,Other,Ahmedabad,Laptop,3,1100,3300,2025-06-14,-
+CUST-1234,Riya Reddy,51,Female,Pune,Tablet,4,1000,4000,2025-07-24,Net Banking
+CUST-1235,Vihaan Joshi,58,Other,Chennai,Monitor,4,450,1800,2025-04-11,Net Banking
+CUST-1236,Sneha Das,null,Male,Chennai,Monitor,1,950,950,2025-03-12,Credit Card
+CUST-1237,Myra Verma,45,Male,Mumbai,Mouse,2,450,900,2025-08-11,Credit Card
+CUST-1238,Aditya Bose,49,Other,Mumbai,Smartphone,2,1200,2400,2025-02-15,Credit Card
+CUST-1239,Reyansh Bose,57,Female,Mumbai,Headphones,5,250,1250,2025-06-07,Debit Card
+CUST-1240,Chiara Chopra,52,Female,Ahmedabad,Smartphone,3,1150,3450,2025-02-12,Net Banking
+CUST-1241,Aditya Sharma,22,Male,Ahmedabad,Tablet,5,1100,5500,2025-02-18,Cash on Delivery
+CUST-1242,Sai Joshi,26,Other,Pune,Monitor,2,1200,"2,400.00",2025-11-22,Cash on Delivery
+CUST-1243,Diya Nair,45,Other,Chennai,Laptop,4,250,1000,2025-07-22,Credit Card
+CUST-1244,Vivaan Bhat,32,Male,Bangalore,Mouse,2,1000,2000,2025-01-15,Credit Card
+CUST-1245,Krishna Patel,59,Other,Ahmedabad,Laptop,5,650,3250,2025/13/45,Debit Card
+CUST-1246,Chiara Malhotra,,Female,Kolkata,Laptop,4,850,3400,2025-06-19,Cash on Delivery
+CUST-1247,Ananya Chopra,36,Other,Mumbai,Smartwatch,3,600,1800,2025-12-19,Credit Card
+CUST-1248,Vihaan Nair,38,Female,Delhi,Laptop,3,850,2550,2025-04-05,Cash on Delivery
+CUST-1249,Arjun Rao,23,Female,,Laptop,1,300,300,2025-10-11,Cash on Delivery
+CUST-1250,Anvi Malhotra,30,Male,Bangalore,Laptop,4,400,1600,2025-12-15,Credit Card
+CUST-1251,Aadhya Patel,27,Female,Bangalore,Smartphone,5,950,500000,2025-08-17,Net Banking
+CUST-1252,Chiara Verma,57,Male,Mumbai,Smartphone,2,950,1900,2025-08-21,Cash on Delivery
+CUST-1253,Chiara Kapoor,unknown,Female,Delhi,Smartwatch,4,600,2400,2025-09-09,
+CUST-1254,Ayaan Bhat,58,Male,Bangalore,Smartwatch,3,250,750,2025-03-13,Cash on Delivery
+CUST-1255,Aditya Kapoor,34,Other,Mumbai,Mouse,3,1050,3150,2025-04-10,Net Banking
+CUST-1256,Aadhya Verma,NA,Male,Ahmedabad,Laptop,4,"$1,050",4200,2025-12-21,UPI
+CUST-1257,Ishaan Bhat,36,Male,Chennai,Headphones,5,700,3500,2025-04-14,Net Banking
+CUST-1258,Ananya Reddy,45,Other,Ahmedabad,Laptop,5,950,4750,2025-05-04,Net Banking
+CUST-1259,Aadhya Sen,50,Male,Mumbai,Tablet,4,650,2600,2025-01-06,Credit Card
+CUST-1260,Krishna Malhotra,41,Female,Bangalore,Keyboard,2,1000,2000,2025-03-10,Credit Card
+CUST-1261,Myra Kapoor,56,Other,Pune,Smartwatch,5,600,3000,2025-10-25,Net Banking
+CUST-1262,Ananya Nair,58,Other,Hyderabad,Keyboard,2,1200,2400,2025-12-05,Debit Card
+CUST-1263,Anvi Bose,55,Female,Delhi,Keyboard,5,650,3250,2025-09-07,Cash on Delivery
+CUST-1264,Sneha Gupta,32,Male,Kolkata,Mouse,5,250,1250,2025-12-03,Debit Card
+CUST-1265,Ananya Bhat,51,Other,Pune,Keyboard,1,500,500,2025-04-03,UPI
+CUST-1266,Ayaan Verma,N/A,Female,Bangalore,Keyboard,4,250,1000,2025-10-27,Credit Card
+CUST-1267,Saanvi Iyer,52,Other,Ahmedabad,Keyboard,2,850,1700,2025-02-04,Net Banking
+CUST-1268,Riya Iyer,53,Male,Hyderabad,Tablet,5,650,3250,2025-03-08,Credit Card
+CUST-1269,Aadhya Bhat,25,Other,Hyderabad,Smartwatch,4,400,1600,2025-09-17,Credit Card
+CUST-1270,Ananya Kumar,27,Other,Delhi,Monitor,3,₹600,1800,2025-12-01,Credit Card
+CUST-1271,Reyansh Nair,42,Other,Hyderabad,Monitor,5,650,3250,2025-06-06,UPI
+CUST-1272,Myra Sen,28,Female,Delhi,Keyboard,3,300,900,2025-06-21,Debit Card
+CUST-1273,Riya Sen,28,Female,Kolkata,Smartwatch,3,300,900,2025-06-13,-
+CUST-1274,Ishaan Joshi,56,Male,Mumbai,Laptop,1,800,800,2025-06-14,Debit Card
+CUST-1275,Myra Sharma,43,Female,Mumbai,Tablet,3,650,1950,2025-05-27,Debit Card
+CUST-1276,Diya Gupta,null,Other,Kolkata,Smartwatch,3,1000,3000,2025-03-18,Debit Card
+CUST-1277,Aadhya Sen,48,Female,Delhi,Smartwatch,1,300,300,2025-12-15,UPI
+CUST-1278,Riya Sen,40,Male,Pune,Tablet,1,500,500,2025-11-17,Net Banking
+CUST-1279,Sneha Iyer,20,Female,N/A,Tablet,5,450,2250,2025-06-01,Cash on Delivery
+CUST-1280,Krishna Singh,26,Male,Pune,Smartphone,1,1100,1100,2025-10-19,Debit Card
+CUST-1281,Reyansh Nair,37,Other,Mumbai,Headphones,3,850,2550,2025-07-18,Debit Card
+CUST-1282,Saanvi Sharma,25,Other,Pune,Smartphone,5,950,4750,2025-09-07,Cash on Delivery
+CUST-1283,Anvi Das,N/A_age,Female,Kolkata,Tablet,1,1000,1000,2025-05-10,Net Banking
+CUST-1284,Aarav Das,27,Other,Delhi,Smartphone,4,900,"3,600.00",2025-08-18,Net Banking
+CUST-1285,Myra Reddy,37,Other,Bangalore,Mouse,1,1200,1200,2025-11-02,UPI
+CUST-1286,Vihaan Sharma,,Female,Chennai,Smartphone,3,750,2250,2025-09-22,Debit Card
+CUST-1287,Myra Iyer,54,Other,Kolkata,Smartphone,1,600,600,2025-04-20,Net Banking
+CUST-1288,Pari Verma,32,Female,Ahmedabad,Tablet,3,600,1800,2025-08-16,Debit Card
+CUST-1289,Sai Sharma,35,Male,Mumbai,Mouse,1,900,900,2025-06-08,Credit Card
+CUST-1290,Vivaan Patel,41,Female,Mumbai,Laptop,1,750,750,2025-01-13,Debit Card
+CUST-1291,Vihaan Kumar,35,Other,Mumbai,Monitor,3,1050,3150,2025-03-04,UPI
+CUST-1292,Chiara Malhotra,26,Male,Chennai,Headphones,3,650,1950,2025-12-21,Cash on Delivery
+CUST-1293,Pari Joshi,22,Other,Bangalore,Smartphone,4,650,2600,2025-07-08,
+CUST-1294,Myra Iyer,58,Male,Chennai,Tablet,4,350,1400,2025-05-22,Credit Card
+CUST-1295,Aadhya Bhat,49,Other,Hyderabad,Monitor,4,250,1000,TBD,Cash on Delivery
+CUST-1296,Saanvi Joshi,NA,Other,Kolkata,Tablet,1,600,600,2025-01-24,Net Banking
+CUST-1297,Saanvi Sen,26,Male,Hyderabad,Tablet,5,1100,5500,2025-05-14,UPI
+CUST-1298,Chiara Rao,37,Other,Bangalore,Laptop,3,$700,2100,2025-10-20,Net Banking
+CUST-1299,Chiara Nair,20,Female,Bangalore,Monitor,5,500,2500,2025-03-01,Cash on Delivery
+CUST-1300,Aditya Verma,43,Other,Hyderabad,Smartwatch,5,400,2000,2025-12-14,Credit Card
+CUST-1301,Reyansh Bose,38,Other,Ahmedabad,Smartwatch,4,1200,750000,2025-02-21,Net Banking
+CUST-1302,Aditya Reddy,38,Female,Kolkata,Keyboard,1,750,750,2025-03-06,UPI
+CUST-1303,Ananya Sharma,22,Male,Mumbai,Tablet,3,800,2400,2025-09-22,Debit Card
+CUST-1304,Arjun Joshi,38,Other,Kolkata,Tablet,3,1200,3600,2025-05-08,UPI
+CUST-1305,Riya Kapoor,63,Other,Chennai,Keyboard,2,500,1000,2025-06-17,Credit Card
+CUST-1306,Vihaan Bhat,N/A,Male,Delhi,Tablet,5,550,2750,2025-06-02,Credit Card
+CUST-1307,Diya Kumar,53,Female,Delhi,Monitor,3,300,900,2025-04-08,Credit Card
+CUST-1308,Sai Iyer,59,Male,Ahmedabad,Laptop,5,450,2250,2025-03-26,Credit Card
+CUST-1309,Krishna Patel,41,Female,,Mouse,2,300,600,2025-07-19,Net Banking
+CUST-1310,Chiara Sen,30,Other,Pune,Keyboard,4,700,2800,2025-07-13,Cash on Delivery
+CUST-1311,Chiara Kumar,46,Other,Kolkata,Laptop,4,350,1400,2025-04-24,Net Banking
+CUST-1312,Anvi Kumar,34,Female,Bangalore,Laptop,2,₹500,1000,2025-04-17,Debit Card
+CUST-1313,Ayaan Singh,300,Other,Ahmedabad,Smartphone,1,1000,1000,2025-01-03,-
+CUST-1314,Krishna Bose,55,Female,Ahmedabad,Tablet,1,300,300,2025-01-24,Debit Card
+CUST-1315,Saanvi Iyer,26,Other,Ahmedabad,Laptop,2,250,500,2025-05-28,UPI
+CUST-1316,Ananya Sen,null,Male,Chennai,Mouse,5,500,2500,2025-02-28,Net Banking
+CUST-1317,Ananya Saxena,35,Male,Kolkata,Monitor,2,600,1200,2025-05-22,Credit Card
+CUST-1318,Vihaan Saxena,43,Male,Mumbai,Mouse,2,1000,2000,2025-07-25,Debit Card
+CUST-1319,Ayaan Mehta,27,Female,Hyderabad,Smartphone,2,750,1500,2025-12-19,Net Banking
+CUST-1320,Sai Iyer,61,Female,Chennai,Keyboard,5,1100,5500,2025-01-10,Credit Card
+CUST-1321,Vivaan Sen,23,Other,Delhi,Laptop,1,400,400,2025-02-20,Debit Card
+CUST-1322,Ishaan Mehta,52,Female,Chennai,Keyboard,3,350,1050,2025-12-19,UPI
+CUST-1323,Ishaan Gupta,23,Female,Ahmedabad,Tablet,3,700,2100,2025-11-19,Net Banking
+CUST-1324,Aditya Chopra,49,Male,Pune,Laptop,4,1150,4600,2025-08-19,Debit Card
+CUST-1325,Krishna Rao,35,Female,Mumbai,Smartphone,2,700,1400,2025-12-16,UPI
+CUST-1326,Sneha Sen,,Other,Ahmedabad,Headphones,2,1150,"2,300.00",2025-03-06,Credit Card
+CUST-1327,Krishna Singh,26,Female,Hyderabad,Smartphone,4,650,2600,2025-12-13,Cash on Delivery
+CUST-1328,Ishaan Das,22,Other,Bangalore,Keyboard,2,400,800,2025-06-10,UPI
+CUST-1329,Vivaan Reddy,32,Male,Delhi,Headphones,5,350,1750,2025-08-23,Cash on Delivery
+CUST-1330,Arjun Iyer,26,Male,Hyderabad,Tablet,4,950,3800,2025-05-02,UPI
+CUST-1331,Ishaan Kapoor,55,Other,Bangalore,Tablet,5,500,2500,2025-09-18,Credit Card
+CUST-1332,Arjun Malhotra,38,Male,Delhi,Smartwatch,5,800,4000,2025-05-22,Credit Card
+CUST-1333,Aadhya Patel,30,Female,Kolkata,Keyboard,1,600,600,2025-09-17,
+CUST-1334,Aditya Kumar,51,Male,Delhi,Monitor,4,250,1000,2025-03-23,UPI
+CUST-1335,Reyansh Joshi,60,Female,Mumbai,Keyboard,5,500,2500,2025-08-25,UPI
+CUST-1336,Ananya Nair,NA,Male,Kolkata,Headphones,4,450,1800,2025-06-10,Cash on Delivery
+CUST-1337,Aadhya Malhotra,59,Other,Mumbai,Laptop,4,1050,4200,2025-08-14,UPI
+CUST-1338,Pari Bose,50,Other,Pune,Laptop,3,900,2700,2025-08-23,Credit Card
+CUST-1339,Chiara Sharma,40,Male,N/A,Monitor,2,1200,2400,2025-02-22,Net Banking
+CUST-1340,Anvi Singh,22,Female,Bangalore,Keyboard,5,$500,2500,2025-06-19,Cash on Delivery
+CUST-1341,Ishaan Gupta,61,Other,Bangalore,Headphones,2,700,1400,2025-04-08,Credit Card
+CUST-1342,Riya Iyer,48,Other,Ahmedabad,Mouse,4,1200,4800,2025-09-05,UPI
+CUST-1343,Diya Malhotra,-12,Other,Hyderabad,Headphones,2,1200,2400,2025-11-17,UPI
+CUST-1344,Pari Das,30,Other,Bangalore,Headphones,4,650,2600,2025-06-09,Credit Card
+CUST-1345,Anvi Mehta,54,Female,Delhi,Smartphone,3,950,2850,00-00-0000,Credit Card
+CUST-1346,Aarav Sharma,N/A,Female,Kolkata,Laptop,1,900,900,2025-01-07,Net Banking
+CUST-1347,Ananya Joshi,44,Female,Mumbai,Laptop,4,700,2800,2025-10-13,Credit Card
+CUST-1348,Vivaan Bose,27,Female,Ahmedabad,Headphones,4,800,3200,2025-07-26,Net Banking
+CUST-1349,Vihaan Kapoor,44,Female,Ahmedabad,Tablet,5,1200,6000,2025-02-27,Debit Card
+CUST-1350,Anvi Rao,35,Female,Pune,Tablet,5,1150,5750,2025-11-08,Cash on Delivery
+CUST-1351,Diya Patel,53,Female,Delhi,Headphones,4,400,1600,2025-01-04,UPI
+CUST-1352,Anvi Rao,46,Female,Kolkata,Smartwatch,2,350,700,2025-08-07,Net Banking
+CUST-1353,Krishna Mehta,20,Female,Pune,Tablet,4,600,2400,2025-11-04,-
+CUST-1354,Vihaan Rao,41,Other,Mumbai,Headphones,3,"₹1,050",3150,2025-12-20,Credit Card
+CUST-1355,Riya Chopra,46,Female,Hyderabad,Headphones,1,650,650,2025-11-25,Credit Card
+CUST-1356,Aadhya Joshi,null,Female,Mumbai,Laptop,2,350,700,2025-07-02,Net Banking
+CUST-1357,Ishaan Rao,54,Female,Ahmedabad,Monitor,4,300,1200,2025-02-19,Debit Card
+CUST-1358,Aadhya Verma,63,Other,Mumbai,Tablet,5,300,1500,2025-05-13,UPI
+CUST-1359,Arjun Rao,61,Other,Delhi,Laptop,4,850,3400,2025-04-23,Net Banking
+CUST-1360,Aadhya Patel,31,Other,Delhi,Laptop,5,900,4500,2025-05-04,UPI
+CUST-1361,Reyansh Nair,30,Male,Ahmedabad,Headphones,5,900,4500,2025-05-17,Net Banking
+CUST-1362,Chiara Saxena,38,Female,Ahmedabad,Headphones,1,850,850,2025-08-18,Debit Card
+CUST-1363,Aadhya Kumar,51,Other,Delhi,Smartwatch,2,650,1300,2025-07-25,Credit Card
+CUST-1364,Ishaan Chopra,32,Female,Pune,Smartwatch,2,500,1000,2025-01-08,UPI
+CUST-1365,Krishna Iyer,41,Female,Bangalore,Smartwatch,4,450,1800,2025-10-02,Cash on Delivery
+CUST-1366,Vivaan Chopra,,Male,Bangalore,Smartphone,1,1050,1050,2025-12-04,UPI
+CUST-1367,Diya Nair,36,Male,Hyderabad,Smartphone,4,900,3600,2025-05-02,Credit Card
+CUST-1368,Reyansh Nair,55,Female,Delhi,Mouse,5,1000,"5,000.00",2025-02-28,Credit Card
+CUST-1369,Sneha Das,64,Female,,Smartwatch,2,500,1000,2025-09-01,Debit Card
+CUST-1370,Sneha Chopra,48,Female,Ahmedabad,Smartwatch,3,900,2700,2025-08-01,Debit Card
+CUST-1371,Aadhya Kumar,24,Male,Ahmedabad,Monitor,3,550,1650,2025-07-18,Credit Card
+CUST-1372,Myra Sen,21,Female,Hyderabad,Keyboard,2,450,900,2025-12-25,Debit Card
+CUST-1373,Vivaan Reddy,err,Male,Ahmedabad,Tablet,3,750,2250,2025-06-10,
+CUST-1374,Diya Sharma,37,Male,Mumbai,Mouse,3,1000,3000,2025-10-18,Net Banking
+CUST-1375,Sneha Singh,49,Female,Kolkata,Monitor,3,550,1650,2025-09-20,Cash on Delivery
+CUST-1376,Arjun Mehta,NA,Other,Pune,Keyboard,3,450,1350,2025-11-27,UPI
+CUST-1377,Aarav Iyer,47,Other,Mumbai,Headphones,1,1000,1000,2025-03-15,Credit Card
+CUST-1378,Chiara Mehta,29,Female,Hyderabad,Smartphone,1,1100,1100,2025-09-02,Credit Card
+CUST-1379,Sai Gupta,48,Other,Bangalore,Headphones,5,300,1500,2025-06-14,Debit Card
+CUST-1380,Ananya Iyer,37,Other,Kolkata,Tablet,3,800,2400,2025-04-01,Credit Card
+CUST-1381,Vivaan Sharma,25,Female,Hyderabad,Keyboard,2,350,700,2025-05-08,Cash on Delivery
+CUST-1382,Vihaan Iyer,59,Female,Mumbai,Tablet,5,$450,2250,2025-08-14,Credit Card
+CUST-1383,Sai Saxena,54,Female,Mumbai,Laptop,3,550,1650,2025-07-21,Debit Card
+CUST-1384,Chiara Bose,38,Female,Hyderabad,Headphones,2,650,1300,2025-07-25,Debit Card
+CUST-1385,Ayaan Bhat,49,Other,Mumbai,Smartphone,4,500,2000,2025-02-27,UPI
+CUST-1386,Aditya Nair,N/A,Other,Ahmedabad,Tablet,2,850,1700,2025-03-24,Cash on Delivery
+CUST-1387,Vihaan Reddy,53,Other,Hyderabad,Monitor,3,900,2700,2025-09-08,Debit Card
+CUST-1388,Krishna Mehta,64,Other,Mumbai,Keyboard,4,300,1200,2025-07-28,UPI
+CUST-1389,Aadhya Patel,56,Female,Chennai,Smartwatch,4,650,2600,2025-01-14,Credit Card
+CUST-1390,Krishna Mehta,52,Other,Ahmedabad,Smartwatch,2,400,800,2025-12-21,Net Banking
+CUST-1391,Aarav Patel,31,Male,Ahmedabad,Laptop,5,950,4750,2025-01-01,Cash on Delivery
+CUST-1392,Arjun Rao,60,Other,Hyderabad,Smartwatch,1,500,500,2025-11-06,Net Banking
+CUST-1393,Ayaan Iyer,55,Male,Mumbai,Headphones,5,1050,5250,2025-04-05,-
+CUST-1394,Vivaan Nair,36,Male,Pune,Mouse,4,450,1800,2025-07-17,UPI
+CUST-1395,Sneha Iyer,35,Female,Hyderabad,Mouse,4,750,3000,error_date,Cash on Delivery
+CUST-1396,Diya Sen,null,Male,Hyderabad,Smartphone,4,"₹1,050",4200,2025-09-12,Net Banking
+CUST-1397,Vihaan Bhat,35,Other,Bangalore,Headphones,5,850,4250,2025-02-10,Credit Card
+CUST-1398,Diya Chopra,57,Male,Bangalore,Smartwatch,1,900,900,2025-09-14,UPI
+CUST-1399,Vihaan Sharma,20,Female,N/A,Smartphone,4,350,1400,2025-12-19,Credit Card
+CUST-1400,Riya Sen,58,Male,Pune,Monitor,3,600,1800,2025-07-10,Cash on Delivery
+CUST-1401,Ayaan Nair,59,Female,Bangalore,Mouse,2,1200,2400,2025-09-18,Cash on Delivery
+CUST-1402,Vivaan Patel,30,Female,Pune,Headphones,4,700,2800,2025-12-21,UPI
+CUST-1403,Aadhya Rao,29,Male,Hyderabad,Monitor,1,450,450,2025-08-28,Debit Card
+CUST-1404,Ishaan Nair,48,Other,Pune,Mouse,5,800,4000,2025-01-28,Debit Card
+CUST-1405,Aarav Rao,28,Female,Bangalore,Keyboard,5,1150,5750,2025-11-08,Debit Card
+CUST-1406,Ayaan Saxena,22,Male,Chennai,Mouse,5,900,4500,2025-01-14,Credit Card
+CUST-1407,Myra Kapoor,44,Female,Bangalore,Monitor,5,1050,5250,2025-02-13,Cash on Delivery
+CUST-1408,Vihaan Nair,23,Male,Hyderabad,Smartwatch,1,650,650,2025-10-07,Net Banking
+CUST-1409,Riya Verma,38,Female,Ahmedabad,Monitor,5,500,2500,2025-10-16,UPI
+CUST-1410,Diya Verma,57,Female,Delhi,Headphones,5,1000,"5,000.00",2025-12-16,Credit Card
+CUST-1411,Vihaan Saxena,33,Other,Delhi,Smartphone,1,850,850,2025-04-19,Cash on Delivery
+CUST-1412,Arjun Bose,40,Female,Mumbai,Smartwatch,3,700,2100,2025-08-05,Cash on Delivery
+CUST-1413,Chiara Sharma,60,Male,Hyderabad,Mouse,5,250,1250,2025-11-11,Net Banking
+CUST-1414,Saanvi Malhotra,29,Female,Delhi,Headphones,4,1150,4600,2025-03-15,Cash on Delivery
+CUST-1415,Diya Bhat,20,Female,Ahmedabad,Monitor,3,750,2250,2025-09-20,Credit Card
+CUST-1416,Riya Joshi,46,Male,Pune,Laptop,4,400,1600,2025-09-27,Debit Card
+CUST-1417,Krishna Saxena,42,Male,Ahmedabad,Keyboard,3,1100,3300,2025-01-15,Net Banking
+CUST-1418,Chiara Rao,56,Female,Kolkata,Mouse,4,1050,4200,2025-07-17,Net Banking
+CUST-1419,Saanvi Kumar,44,Other,Bangalore,Keyboard,2,400,800,2025-10-17,UPI
+CUST-1420,Aditya Verma,59,Female,Pune,Monitor,4,600,2400,2025-06-13,Credit Card
+CUST-1421,Anvi Sen,54,Male,Bangalore,Tablet,1,450,450,2025-11-01,Credit Card
+CUST-1422,Sai Das,53,Other,Chennai,Smartphone,3,850,2550,2025-10-06,Credit Card
+CUST-1423,Ananya Joshi,28,Female,Hyderabad,Monitor,1,250,250,2025-07-21,UPI
+CUST-1424,Vivaan Patel,30,Male,Mumbai,Smartwatch,4,950,3800,2025-02-08,Net Banking
+CUST-1425,Vivaan Mehta,59,Other,Ahmedabad,Keyboard,1,850,850,2025-02-01,Credit Card
+CUST-1426,Arjun Bhat,47,Other,Hyderabad,Tablet,2,1000,2000,2025-02-01,Cash on Delivery
+CUST-1427,Krishna Joshi,35,Other,Mumbai,Headphones,4,1200,4800,2025-10-12,Debit Card
+CUST-1428,Sneha Nair,53,Male,Mumbai,Smartwatch,1,500,500,2025-05-15,Debit Card
+CUST-1429,Vivaan Bhat,53,Female,,Laptop,1,750,750,2025-05-06,Credit Card
+CUST-1430,Krishna Verma,37,Female,Bangalore,Keyboard,3,600,1800,2025-01-13,Net Banking
+CUST-1431,Myra Verma,49,Other,Ahmedabad,Smartphone,5,850,4250,2025-10-20,Debit Card
+CUST-1432,Sai Verma,29,Other,Delhi,Keyboard,4,600,2400,2025-03-12,Debit Card
+CUST-1433,Aadhya Malhotra,53,Other,Hyderabad,Smartwatch,3,600,1800,2025-11-07,Net Banking
+CUST-1434,Aarav Bhat,56,Female,Bangalore,Laptop,3,850,2550,2025-03-05,UPI
+CUST-1435,Ayaan Joshi,46,Female,Chennai,Laptop,1,1150,1150,2025-12-02,Net Banking
+CUST-1436,Anvi Sen,54,Male,Pune,Laptop,2,800,1600,2025-05-11,Cash on Delivery
+CUST-1437,Krishna Sharma,38,Female,Hyderabad,Mouse,1,250,250,2025-06-17,Credit Card
+CUST-1438,Vivaan Sharma,51,Male,Chennai,Smartwatch,2,700,1400,2025-05-27,UPI
+CUST-1439,Vivaan Saxena,29,Other,Mumbai,Headphones,4,800,3200,2025-08-26,Debit Card
+CUST-1440,Aadhya Bhat,62,Male,Hyderabad,Mouse,4,1200,4800,2025-03-01,Debit Card
+CUST-1441,Ayaan Sen,27,Other,Mumbai,Tablet,5,1200,6000,2025-01-05,Net Banking
+CUST-1442,Chiara Mehta,50,Female,Ahmedabad,Keyboard,2,400,800,2025-10-21,Cash on Delivery
+CUST-1443,Anvi Sharma,47,Female,Chennai,Monitor,3,650,1950,2025-04-27,UPI
+CUST-1444,Vihaan Nair,47,Other,Ahmedabad,Mouse,3,250,750,2025-01-25,Credit Card
+CUST-1445,Aditya Saxena,51,Female,Chennai,Smartwatch,3,400,1200,2025-05-12,Net Banking
+CUST-1446,Riya Gupta,56,Female,Hyderabad,Keyboard,1,700,700,2025-07-09,Debit Card
+CUST-1447,Sai Malhotra,29,Other,Hyderabad,Tablet,1,850,850,2025-06-19,UPI
+CUST-1448,Reyansh Rao,32,Female,Kolkata,Tablet,5,900,4500,2025-08-03,Debit Card
+CUST-1449,Riya Chopra,62,Male,Hyderabad,Headphones,1,850,850,2025-01-08,UPI
+CUST-1450,Anvi Verma,40,Male,Pune,Tablet,3,450,1350,2025-02-12,Cash on Delivery
+CUST-1451,Chiara Bose,46,Other,Mumbai,Smartphone,1,1200,1200,2025-01-14,Credit Card
+CUST-1452,Aditya Sharma,30,Other,Delhi,Tablet,1,650,650,2025-05-05,Net Banking
+CUST-1453,Sai Kapoor,35,Male,Delhi,Tablet,2,800,1600,2025-03-22,UPI
+CUST-1454,Reyansh Gupta,62,Other,Hyderabad,Mouse,1,600,600,2025-01-28,Debit Card
+CUST-1455,Aadhya Chopra,61,Other,Kolkata,Smartwatch,4,1100,4400,2025-04-24,Net Banking
+CUST-1456,Myra Kumar,35,Other,Delhi,Monitor,1,550,550,2025-04-06,Credit Card
+CUST-1457,Myra Bhat,55,Female,Bangalore,Keyboard,1,800,800,2025-05-14,Credit Card
+CUST-1458,Saanvi Verma,48,Other,Pune,Keyboard,3,1100,3300,2025-10-26,Net Banking
+CUST-1459,Vihaan Patel,32,Other,Hyderabad,Smartwatch,3,550,1650,2025-05-03,Net Banking
+CUST-1460,Riya Bhat,49,Other,Kolkata,Monitor,5,450,2250,2025-02-19,UPI
+CUST-1461,Ananya Verma,33,Other,Chennai,Monitor,2,850,1700,2025-02-12,Debit Card
+CUST-1462,Reyansh Iyer,29,Male,Hyderabad,Keyboard,1,950,950,2025-03-12,Credit Card
+CUST-1463,Anvi Malhotra,49,Male,Delhi,Smartwatch,5,1050,5250,2025-12-09,Debit Card
+CUST-1464,Anvi Saxena,50,Other,Pune,Tablet,1,700,700,2025-07-19,Net Banking
+CUST-1465,Saanvi Nair,32,Female,Pune,Tablet,3,700,2100,2025-09-14,UPI
+CUST-1466,Anvi Saxena,58,Female,Pune,Smartphone,3,250,750,2025-11-09,Debit Card
+CUST-1467,Aarav Sharma,49,Other,Pune,Laptop,3,950,2850,2025-10-04,Net Banking
+CUST-1468,Ishaan Kapoor,33,Other,Mumbai,Mouse,4,900,3600,2025-03-02,Net Banking
+CUST-1469,Ayaan Nair,40,Other,Kolkata,Smartphone,4,500,2000,2025-02-17,UPI
+CUST-1470,Sai Mehta,62,Other,Hyderabad,Keyboard,1,900,900,2025-01-17,Debit Card
+CUST-1471,Anvi Bhat,57,Female,Delhi,Monitor,3,950,2850,2025-07-11,Cash on Delivery
+CUST-1472,Aadhya Kumar,22,Other,Chennai,Smartwatch,1,1150,1150,2025-09-03,UPI
+CUST-1473,Vihaan Reddy,45,Female,Chennai,Mouse,2,550,1100,2025-08-11,Cash on Delivery
+CUST-1474,Sai Bose,42,Other,Ahmedabad,Mouse,2,950,1900,2025-01-17,Credit Card
+CUST-1475,Pari Kumar,40,Male,Delhi,Keyboard,2,900,1800,2025-09-11,Cash on Delivery
+CUST-1001,Aarav Gupta,28,Other,Bangalore,Headphones,5,750,3750,2025-07-08,Credit Card
+CUST-1002,Myra Sen,28,Female,Delhi,Smartphone,2,350,700,2025-10-15,Cash on Delivery
+CUST-1003,Pari Verma,40,Female,Delhi,Keyboard,3,700,2100,2025-03-01,Credit Card
+CUST-1004,Sneha Sen,48,Other,Chennai,Keyboard,2,$600,1200,2025-04-10,Net Banking
+CUST-1005,Ayaan Verma,34,Female,Delhi,Headphones,1,300,300,2025-12-16,Credit Card
+CUST-1006,Sneha Kumar,,Other,Delhi,Smartwatch,1,900,900,2025-05-13,Net Banking
+CUST-1007,Vihaan Kapoor,26,Other,Chenai,Laptop,4,600,2400,2025-03-15,UPI
+CUST-1008,Aditya Bose,49,Female,Pune,Tablet,5,700,3500,2025-06-26,UPI
+CUST-1009,Sneha Iyer,45,Other,,Monitor,5,750,3750,2025-04-10,Debit Card
+CUST-1010,Krishna Das,40,Female,Mumbai,Headphones,1,950,950,2025-05-13,Cash on Delivery
+CUST-1011,Aditya Kumar,36,Male,Hyderabad,Smartphone,4,1150,4600,2025-01-14,Cash on Delivery
+CUST-1012,Diya Patel,37,Female,Delhi,Keyboard,1,800,800,2025-05-08,Debit Card
+CUST-1013,Reyansh Joshi,28,Male,Bangalore,Mouse,4,750,3000,2025-10-04,
+CUST-1014,Arjun Nair,46,Male,Ahmedabad,Monitor,3,700,2100,2025-05-09,Debit Card
+CUST-1015,Krishna Kumar,52,Male,Bangalore,Laptop,3,250,750,2025-05-16,Credit Card
+CUST-1016,Riya Sen,NA,Other,Pune,Smartphone,1,1100,1100,2025-10-28,Debit Card
+CUST-1017,Ananya Bhat,64,Other,Mumbai,Monitor,5,350,1750,2025-05-02,UPI
+CUST-1018,Vihaan Gupta,29,Male,Pune,Tablet,2,₹950,1900,2025-05-27,UPI
+CUST-1019,Ishaan Joshi,23,Other,Hyderabad,Headphones,4,400,1600,2025-07-17,Debit Card
+CUST-1020,Ayaan Reddy,42,Other,Hyderabad,Monitor,1,850,850,2025-09-05,Cash on Delivery
+CUST-1021,Arjun Sharma,44,Female,Kolkata,Mouse,1,850,850,2025-05-14,Debit Card
+CUST-1022,Ayaan Kapoor,22,Other,Ahmedabad,Smartwatch,4,500,2000,2025-08-01,UPI
+CUST-1023,Ananya Saxena,40,Female,Ahmedabad,Mouse,3,1100,3300,2025-01-02,UPI
+CUST-1024,Diya Kumar,47,Female,Kolkata,Smartwatch,1,1000,1000,2025-10-28,UPI
+CUST-1025,Vivaan Kumar,34,Other,Ahmedabad,Headphones,5,1000,5000,2025-05-09,Credit Card
